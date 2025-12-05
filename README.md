@@ -7,8 +7,8 @@ A **Java-based desktop application** that simulates core banking operations like
 - **Language**: Java  
 - **GUI**: Swing, AWT  
 - **Database**: MySQL  
-- **IDE Used**: IntelliJ IDEA / Eclipse / NetBeans (choose your IDE)  
-- **Build Tool**: javac / IDE default builder  
+- **IDE Used**: NetBeans  
+- **Build Tool**:IDE default builder  
 
 ---
 
@@ -29,6 +29,6 @@ A **Java-based desktop application** that simulates core banking operations like
 
 - Java JDK 8 or higher
 - MySQL Server installed and running
-- MySQL Workbench or phpMyAdmin (optional for DB management)
+- MySQL Workbench
 
 
